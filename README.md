@@ -1,2 +1,2 @@
 # SUU_car_survey
-It is Machine learning mini project which uses Logistic Regression Algorithm
+It is Machine learning mini project which uses Logistic Regression Algorithm.In this survey I have gahered data of 400 people to whom company approched in ordered to sell the car.The Data includes gender, estimated salery, Age and purchese status. Then analysing data , ploting various graphs the company has room to decide what should be future plan and area to concentrate in order to increase sell in less efforts.
